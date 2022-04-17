@@ -1,2 +1,2 @@
-# LAPTRINHJAVA2
-CƠ BẢN
+# laptrinhjava
+ JAVA
