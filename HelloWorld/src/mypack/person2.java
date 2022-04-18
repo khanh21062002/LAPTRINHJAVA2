@@ -1,3 +1,4 @@
+package mypack;
 public class person2 {
     public String name;
 	public int age;
